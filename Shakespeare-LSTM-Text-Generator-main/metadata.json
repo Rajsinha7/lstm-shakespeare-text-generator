@@ -1,0 +1,6 @@
+{
+  "name": "LSTM Shakespeare Text Generator",
+  "description": "An interactive playground, visualization hub, and code explorer for an end-to-end Generative AI project using LSTM for Shakespearean text generation in Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

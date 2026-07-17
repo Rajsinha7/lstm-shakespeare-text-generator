@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+project/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_common.dll filter=lfs diff=lfs merge=lfs -text
+project/models/best_model.keras filter=lfs diff=lfs merge=lfs -text
+project/data/t8.shakespeare.txt filter=lfs diff=lfs merge=lfs -text
